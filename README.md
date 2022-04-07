@@ -12,3 +12,8 @@
 1. In Brave/Chrome go to the extensions page (`chrome://extensions` or `brave://extensions`).
 1. Enable Developer Mode.
 1. Click in load unpacked and find the folder and click in select folder.
+
+<p align="center">
+  <img src="https://github.com/trytocatcharg/magic-eden/blob/master/magic_eden.gif"/>
+</p>
+
