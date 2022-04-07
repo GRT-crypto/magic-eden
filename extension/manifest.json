@@ -1,0 +1,11 @@
+{
+    "name": "Magic eden refresh",
+    "description": "ME",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "content_scripts": [{
+        "js": ["myscript.js"],
+        "run_at": "document_end",
+        "matches": ["https://magiceden.io/marketplace/*"]
+      }]
+}
