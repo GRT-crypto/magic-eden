@@ -10,7 +10,7 @@
 ### Installation Instructions
 **Google Chrome / Brave**
 1. Download this repo as a [ZIP file from GitHub](https://github.com/trytocatcharg/magic-eden/archive/refs/heads/master.zip).
-1. Unzip the file and you should have a folder named `magic-eden-master/me-extension`.
+1. Unzip the file and you should have a folder named `magic-eden-master/extension`.
 1. In Brave/Chrome go to the extensions page (`chrome://extensions` or `brave://extensions`).
 1. Enable Developer Mode.
 1. Click in load unpacked and find the folder and click in select folder.
