@@ -1,5 +1,3 @@
-# magic-eden
-
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/iqnKRoO9utRVGFQlVJMJX4orUFzZsU41hVKRCXI4m8djHDAhbBppaCqX23laLIMldxXu=w600-h300-pc0xffffff-pd" width="250" height="150"/>
 </p>
